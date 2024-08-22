@@ -5,7 +5,7 @@
   <h4>Equinox V3 is a top-notch web proxy built to prioritize security, speed, and a commitment to safe and smooth browsing.</h4>
 </div>
 <br>
-
+ 
 ## Features
 - A powerful, high speed proxy
 - New browser
